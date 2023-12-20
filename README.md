@@ -26,7 +26,7 @@ pip install requests
 
 ## Usage 🌟
 To use Astroweather:
-1. Run `python main.py` in your terminal.
+1. Run `python src/main.py` in your terminal.
 2. Enter the city name when prompted.
 3. Optionally, provide a date in DD-MM-YYYY format. If left blank, today's date is used.
 4. The program will display weather data along with the Sky Observability Score for night hours.
